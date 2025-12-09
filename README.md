@@ -53,5 +53,7 @@ To execute all JUnit tests:
 mvn test
 
 Tests run: 3, Failures: 0, Errors: 0, Skipped: 0
+
 BUILD SUCCESS
+
 
